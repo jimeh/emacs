@@ -268,6 +268,7 @@
 (load "minibuffer") ; Needs cl-generic, seq (and define-minor-mode).
 (load "frame")
 (load "startup")
+(load "macos-startup")
 (load "term/tty-colors")
 (load "font-core")
 (load "emacs-lisp/syntax")
